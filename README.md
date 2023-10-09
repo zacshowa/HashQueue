@@ -1,4 +1,4 @@
-# set-deque
+# hash-queue
 A data structure inspired by problems faced while building a network monitoring utility. 
 
 ## Motivation
